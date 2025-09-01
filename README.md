@@ -7,14 +7,12 @@ The dashboard highlights **sales performance, inventory management, and customer
 
 
 ## Features  
--  KPIs for **Total Sales** and **Total Profits**  
--  Region-wise **Quantity & Profit** analysis  
--  Category-wise and Subcategory-wise breakdowns  
--  Year-wise trend of Sales & Profit  
--  Segment-wise Sales Distribution  
--  Dynamic filtering using **Slicers** (Region, Category, Segment, etc.)  
--  Advanced Excel formulas (**VLOOKUP, INDEX/MATCH, SUMIFS, COUNTIFS**) for data analysis  
--  Automated reporting with PivotTables & PivotCharts  
+- KPIs for **Sales Performance, Inventory Management, and Customer Trends**  
+- Region-wise, Category-wise, and Time-based analysis using **PivotTables & PivotCharts**  
+- **Slicers** for dynamic filtering by region, product category, time period, and sales representative  
+- Advanced Excel formulas (**VLOOKUP, INDEX/MATCH, SUMIFS, COUNTIFS**) for accurate analysis  
+- **Conditional Formatting** and rich data visualizations (charts, graphs) for better insights  
+- Automated reporting process, reducing manual effort by **30%**  
 
 
 ## Dashboard Preview  
@@ -22,11 +20,11 @@ The dashboard highlights **sales performance, inventory management, and customer
 
 
 ## Key Insights  
-- **West region** generated the highest profits.  
-- **Technology category** contributed the largest share of profit.  
-- Sales & Profit show a **steady increase year-over-year (2014–2017)**.  
-- **Office Supplies** had high sales volume but lower profitability.  
-
+- Identified **top-performing products and categories** driving profitability  
+- Highlighted **inventory trends** to optimize stock and avoid over/under-stocking  
+- Tracked **customer behavior and sales trends** across regions and categories  
+- Provided **budget vs. actual comparisons** for financial monitoring (if included)  
+- Delivered **faster insights** through automation, enabling quicker decision-making 
 
 ## Tech Stack  
 - **Microsoft Excel** (PivotTables, PivotCharts, Slicers, Conditional Formatting)  
